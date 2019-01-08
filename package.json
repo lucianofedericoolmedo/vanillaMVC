@@ -1,0 +1,25 @@
+{
+  "name": "mvcexample",
+  "version": "1.0.0",
+  "description": "Example MVC App",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "todomvc-common": "^1.0.1",
+    "todomvc-app-css": "^2.0.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "JS",
+    "MVC"
+  ],
+  "author": "luciano.federico.olmedo@gmail.com",
+  "license": "ISC"
+}
